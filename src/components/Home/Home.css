@@ -1,0 +1,11 @@
+.bodyInscription {
+  display: flex;
+  justify-content: space-arround;
+  align-items: center;
+  gap: 2rem;
+}
+
+.logoImage {
+  width: 600px;
+  margin-top: 4rem;
+}
